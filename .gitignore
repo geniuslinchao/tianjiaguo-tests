@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+*.iws
+*.iml
+*.ipr
+.idea
+*.bak
+*.log
+target
